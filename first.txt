@@ -3,3 +3,6 @@ gitの練習
 "C:\Users\xceac\OneDrive\デスクトップ"
 
 基本的なワークフローを学びます
+
+.git add
+.git commit
